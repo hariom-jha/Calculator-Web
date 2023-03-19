@@ -1,0 +1,36 @@
+.text-center{
+    text-align:  center;
+    color: blue;
+    text-decoration: dotted;
+    text-indent: 0cap;
+}
+.bg-red{
+    
+    align-items: center;
+    background-attachment: fixed;
+
+}
+.mx-auto{
+    margin: auto;
+    
+
+
+}
+.m-w-20{
+    max-width: 20vw;
+     text-indent: 10%;
+     color-scheme: red;
+
+
+}
+.flex-col{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+      
+}
+.items-center{
+    align-items: center;
+    align-content: baseline;
+
+}
